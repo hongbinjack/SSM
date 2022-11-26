@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d9340b9-4c12-44e8-97a1-2dcd4467ebf9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - ssm@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - ssm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - ssm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ssm: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - ssm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ssm: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_emp: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-mapper" />
+        <option value="mybatis-config" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenRepository" />
+        <option name="mavenHome" value="D:/Maven3.5.4" />
+        <option name="userSettingsFile" value="D:\Maven3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Gfk73jFW6YNh48FYSQvpogqxLs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hb.spring" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\SSM\mybatis_mbg\src\main\resources" />
+      <recent name="D:\ideaworkspace\SSM\mybatis_cache\src\main\resources" />
+      <recent name="D:\ideaworkspace\SSM\mybatis_dynamicSQL\src\main\resources" />
+      <recent name="D:\ideaworkspace\SSM\mybatis_dynamicSQL\src\main\resources\com\mg\mybatis\mapper" />
+      <recent name="D:\ideaworkspace\SSM\mybatis_resultMap\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mg.mybatis.utils" />
+      <recent name="com.mg.mybatis.pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\SSM\mybatis_resultMap\src\main\resources\com.mg.mybatis.mapper" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mybatis" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ProxyTest.testProxy">
+    <configuration name="AutowireByXMLTest.testAutowire" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hb.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hb.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.AutowireByXMLTest" />
+      <option name="METHOD_NAME" value="testAutowire" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryBeanTest.testFactoryBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hb.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hb.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.FactoryBeanTest" />
+      <option name="METHOD_NAME" value="testFactoryBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hb.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hb.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.HelloWorldTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOCByAnnotationTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hb.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hb.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.IOCByAnnotationTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest.testProxy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springproxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mg.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mg.proxy" />
+      <option name="MAIN_CLASS_NAME" value="com.mg.proxy.ProxyTest" />
+      <option name="METHOD_NAME" value="testProxy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProxyTest.testProxy" />
+        <item itemvalue="JUnit.IOCByAnnotationTest.test" />
+        <item itemvalue="JUnit.HelloWorldTest.test" />
+        <item itemvalue="JUnit.AutowireByXMLTest.testAutowire" />
+        <item itemvalue="JUnit.FactoryBeanTest.testFactoryBean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.029032258" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d9340b9-4c12-44e8-97a1-2dcd4467ebf9" name="Default Changelist" comment="" />
+      <created>1666786854681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666786854681</updated>
+      <workItem from="1666786857503" duration="8590000" />
+      <workItem from="1666806165694" duration="4046000" />
+      <workItem from="1666847866900" duration="35000" />
+      <workItem from="1666975734100" duration="301000" />
+      <workItem from="1666976061406" duration="242000" />
+      <workItem from="1666976323381" duration="121000" />
+      <workItem from="1666976464202" duration="279000" />
+      <workItem from="1666976760660" duration="215000" />
+      <workItem from="1666977003729" duration="169000" />
+      <workItem from="1666977287628" duration="3367000" />
+      <workItem from="1667026677122" duration="880000" />
+      <workItem from="1667200503521" duration="11423000" />
+      <workItem from="1667528846773" duration="70000" />
+      <workItem from="1667638812074" duration="46000" />
+      <workItem from="1667731559164" duration="9795000" />
+      <workItem from="1667969763211" duration="5422000" />
+      <workItem from="1667979088579" duration="976000" />
+      <workItem from="1667982459505" duration="9117000" />
+      <workItem from="1668008109916" duration="2147000" />
+      <workItem from="1668069863397" duration="12417000" />
+      <workItem from="1668161106684" duration="8768000" />
+      <workItem from="1668173309231" duration="407000" />
+      <workItem from="1668236772026" duration="11000000" />
+      <workItem from="1668318338713" duration="1180000" />
+      <workItem from="1668319543866" duration="7554000" />
+      <workItem from="1668336997219" duration="9884000" />
+      <workItem from="1668426617888" duration="4244000" />
+      <workItem from="1668656614514" duration="31000" />
+      <workItem from="1668833362907" duration="6608000" />
+      <workItem from="1668926450725" duration="6364000" />
+      <workItem from="1668932898793" duration="6492000" />
+      <workItem from="1669022498579" duration="10294000" />
+      <workItem from="1669081267186" duration="19000" />
+      <workItem from="1669120788007" duration="3996000" />
+      <workItem from="1669373558875" duration="4699000" />
+      <workItem from="1669461935469" duration="2446000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mybatis_parameter/src/test/java/com/mg/mybatis/test/SelectMapperTest.java</url>
+          <line>13</line>
+          <properties class="com.mg.mybatis.test.SelectMapperTest" method="testGetUserById">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mybatis_parameter/src/test/java/com/mg/mybatis/test/SpecialSQLMapperTest.java</url>
+          <line>30</line>
+          <properties class="com.mg.mybatis.test.SpecialSQLMapperTest" method="testGetUserList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mybatis_resultMap/src/test/java/ResultMapTest.java</url>
+          <line>24</line>
+          <properties class="ResultMapTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mybatis_resultMap/src/test/java/ResultMapperTest.java</url>
+          <line>34</line>
+          <properties class="ResultMapperTest" method="testGetDeptAndEmpByDeptId">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mybatis_resultMap/src/test/java/ResultMapperTest.java</url>
+          <line>44</line>
+          <properties class="ResultMapperTest" method="testGetDeptAndEmpByStep">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mybatis_dynamicSQL/src/test/java/DynamicMapperTest.java</url>
+          <line>43</line>
+          <properties class="DynamicMapperTest" method="testDeleteMoreEmp">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/spring_ioc_xml/src/test/java/com/hb/spring/test/DataSourceTest.java</url>
+          <line>11</line>
+          <properties class="com.hb.spring.test.DataSourceTest" method="testDataSource">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/spring_helloworld/src/test/java/com/hb/spring/test/HelloWorldTest.java</url>
+          <line>10</line>
+          <properties class="com.hb.spring.test.HelloWorldTest" method="test">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis_resultMap/src/test/java/ResultMapperTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

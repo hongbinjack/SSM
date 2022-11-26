@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_helloworld" />
+        <module name="springproxy" />
+        <module name="mybatis_parameter" />
+        <module name="mybatis_mbg" />
+        <module name="mybatis_resultMap" />
+        <module name="mybatis_cache" />
+        <module name="mybatis_helloworld" />
+        <module name="spring_ioc_annotation" />
+        <module name="spring_ioc_xml" />
+        <module name="mybatis_dynamicSQL" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybatis_cache" target="1.8" />
+      <module name="mybatis_dynamicSQL" target="1.8" />
+      <module name="mybatis_helloworld" target="8" />
+      <module name="mybatis_mbg" target="1.8" />
+      <module name="mybatis_parameter" target="1.8" />
+      <module name="mybatis_resultMap" target="1.8" />
+      <module name="spring_helloworld" target="1.8" />
+      <module name="spring_ioc_annotation" target="1.8" />
+      <module name="spring_ioc_xml" target="1.8" />
+      <module name="springproxy" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
