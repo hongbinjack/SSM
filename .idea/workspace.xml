@@ -1,8 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring_mvc_demo:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d9340b9-4c12-44e8-97a1-2dcd4467ebf9" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0d9340b9-4c12-44e8-97a1-2dcd4467ebf9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_demo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_helloworld_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_helloworld_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/spring_aop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/main/java/com/hb/spring/aop/annotation/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/main/java/com/hb/spring/aop/annotation/CalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/main/java/com/hb/spring/aop/annotation/LoggerAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/main/java/com/hb/spring/aop/annotation/ValidateAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/main/java/com/hb/spring/aop/xml/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/main/java/com/hb/spring/aop/xml/CalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/main/java/com/hb/spring/aop/xml/LoggerAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/main/java/com/hb/spring/aop/xml/ValidateAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/main/resources/aop-annotation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/main/resources/aop-xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/test/java/com/hb/spring/test/AOPByAnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_aop/src/test/java/com/hb/spring/test/AOPByXMLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/spring_mvc_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/src/main/java/com/hb/controller/ProtalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/src/main/java/com/hb/controller/TestParamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/src/main/java/com/hb/controller/TestRequestMappingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/src/main/java/com/hb/controller/TestScopeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/src/main/java/com/hb/controller/TestViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/src/main/java/com/hb/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/src/main/webapp/WEB-INF/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/src/main/webapp/WEB-INF/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_helloworld/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_helloworld/spring_mvc_helloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_helloworld/src/main/java/com/hb/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_helloworld/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_helloworld/src/main/webapp/WEB-INF/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_helloworld/src/main/webapp/WEB-INF/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc_helloworld/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/spring_transaction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/java/com/hb/spring/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/java/com/hb/spring/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/java/com/hb/spring/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/java/com/hb/spring/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/java/com/hb/spring/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/java/com/hb/spring/service/CheckoutService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/java/com/hb/spring/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/java/com/hb/spring/service/impl/CheckoutServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/resources/spring-jdbc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/resources/tx-annotation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/main/resources/tx-xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/test/java/com/hb/spring/test/JdbcTemplateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/test/java/com/hb/spring/test/TxByAnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_transaction/src/test/java/com/hb/spring/test/TxByXMLTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c187d2b-d46d-4cd3-94bd-b2d6ba282afd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8c187d2b-d46d-4cd3-94bd-b2d6ba282afd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_caches_mybatis_ehcache_1_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_caches_mybatis_ehcache_1_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_resultMap/target/classes/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_resultMap/target/classes/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ioc_xml/spring_ioc_xml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc_xml/spring_ioc_xml.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springproxy/src/main/java/com/mg/spring/proxy/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/springproxy/src/main/java/com/mg/spring/proxy/ProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springproxy/src/test/java/com/mg/proxy/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/springproxy/src/test/java/com/mg/proxy/ProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springproxy/target/classes/com/mg/spring/proxy/ProxyFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/springproxy/target/classes/com/mg/spring/proxy/ProxyFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springproxy/target/classes/com/mg/spring/proxy/ProxyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/springproxy/target/classes/com/mg/spring/proxy/ProxyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springproxy/target/test-classes/com/mg/proxy/ProxyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/springproxy/target/test-classes/com/mg/proxy/ProxyTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +149,13 @@
         <item name="ssm: schema" type="76f4a085:MysqlImplModel$Schema" />
         <item name="t_emp: table" type="285a2a93:MysqlImplModel$Table" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - ssm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ssm: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
@@ -50,14 +164,22 @@
       <list>
         <option value="mybatis-mapper" />
         <option value="mybatis-config" />
-        <option value="spring-beans.schema" />
         <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -72,36 +194,33 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\SSM\mybatis_resultMap\src\main\resources\com.mg.mybatis.mapper" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.hb.spring" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ideaworkspace\SSM\mybatis_mbg\src\main\resources" />
-      <recent name="D:\ideaworkspace\SSM\mybatis_cache\src\main\resources" />
-      <recent name="D:\ideaworkspace\SSM\mybatis_dynamicSQL\src\main\resources" />
-      <recent name="D:\ideaworkspace\SSM\mybatis_dynamicSQL\src\main\resources\com\mg\mybatis\mapper" />
-      <recent name="D:\ideaworkspace\SSM\mybatis_resultMap\src\main\resources" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hb.pojo" />
+      <recent name="com.hb.spring.test" />
       <recent name="com.mg.mybatis.utils" />
       <recent name="com.mg.mybatis.pojo" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\ideaworkspace\SSM\mybatis_resultMap\src\main\resources\com.mg.mybatis.mapper" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\SSM\spring_mvc_demo\src\main\java\com\hb\controller" />
+      <recent name="D:\ideaworkspace\SSM\spring_mvc_demo\src\main\resources" />
+      <recent name="D:\ideaworkspace\SSM\spring_mvc_helloworld\src\main\webapp\WEB-INF" />
+      <recent name="D:\ideaworkspace\SSM\spring_mvc_helloworld\src\main\webapp\WEB-INF\templates" />
+      <recent name="D:\ideaworkspace\SSM\spring_mvc_helloworld\src\main\resources" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -109,21 +228,9 @@
       <command value="mybatis" />
     </option>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.ProxyTest.testProxy">
-    <configuration name="AutowireByXMLTest.testAutowire" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_ioc_xml" />
+  <component name="RunManager" selected="Tomcat Server.SpringMVC">
+    <configuration name="JdbcTemplateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_transaction" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hb.spring.test.*" />
@@ -131,15 +238,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.hb.spring.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.AutowireByXMLTest" />
-      <option name="METHOD_NAME" value="testAutowire" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.JdbcTemplateTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryBeanTest.testFactoryBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_ioc_xml" />
+    <configuration name="JdbcTemplateTest.testGetAllUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_transaction" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hb.spring.test.*" />
@@ -147,15 +253,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.hb.spring.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.FactoryBeanTest" />
-      <option name="METHOD_NAME" value="testFactoryBean" />
+      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="testGetAllUser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_helloworld" />
+    <configuration name="JdbcTemplateTest.testGetCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_transaction" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hb.spring.test.*" />
@@ -163,15 +269,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.hb.spring.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.HelloWorldTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="testGetCount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOCByAnnotationTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_ioc_annotation" />
+    <configuration name="TxByAnnotationTest.testBuyBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_transaction" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hb.spring.test.*" />
@@ -179,43 +285,158 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.hb.spring.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.IOCByAnnotationTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.TxByAnnotationTest" />
+      <option name="METHOD_NAME" value="testBuyBook" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProxyTest.testProxy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springproxy" />
+    <configuration name="TxByXMLTest.testBuyBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_transaction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mg.proxy.*" />
+          <option name="PATTERN" value="com.hb.spring.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.mg.proxy" />
-      <option name="MAIN_CLASS_NAME" value="com.mg.proxy.ProxyTest" />
-      <option name="METHOD_NAME" value="testProxy" />
+      <option name="PACKAGE_NAME" value="com.hb.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hb.spring.test.TxByXMLTest" />
+      <option name="METHOD_NAME" value="testBuyBook" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringMVC" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.82" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/springMVC/" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="spring_mvc_demo:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/springMVC" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SSM" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54166" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="54167" />
+        <option name="visualVMId" value="704392246732500" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring_mvc_demo:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.JdbcTemplateTest" />
+      <item itemvalue="JUnit.JdbcTemplateTest.testGetAllUser" />
+      <item itemvalue="JUnit.JdbcTemplateTest.testGetCount" />
+      <item itemvalue="JUnit.TxByAnnotationTest.testBuyBook" />
+      <item itemvalue="JUnit.TxByXMLTest.testBuyBook" />
+      <item itemvalue="Tomcat Server.SpringMVC" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProxyTest.testProxy" />
-        <item itemvalue="JUnit.IOCByAnnotationTest.test" />
-        <item itemvalue="JUnit.HelloWorldTest.test" />
-        <item itemvalue="JUnit.AutowireByXMLTest.testAutowire" />
-        <item itemvalue="JUnit.FactoryBeanTest.testFactoryBean" />
+        <item itemvalue="JUnit.TxByXMLTest.testBuyBook" />
+        <item itemvalue="JUnit.TxByAnnotationTest.testBuyBook" />
+        <item itemvalue="JUnit.JdbcTemplateTest" />
+        <item itemvalue="JUnit.JdbcTemplateTest.testGetCount" />
+        <item itemvalue="JUnit.JdbcTemplateTest.testGetAllUser" />
       </list>
     </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="allServicesViewState">
       <serviceView>
-        <option name="contentProportion" value="0.029032258" />
+        <option name="contentProportion" value="0.2862022" />
         <treeState>
           <expand />
           <select />
@@ -223,6 +444,7 @@
       </serviceView>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -268,21 +490,31 @@
       <workItem from="1669081267186" duration="19000" />
       <workItem from="1669120788007" duration="3996000" />
       <workItem from="1669373558875" duration="4699000" />
-      <workItem from="1669461935469" duration="2446000" />
+      <workItem from="1669461935469" duration="7643000" />
+      <workItem from="1669549047154" duration="6606000" />
+      <workItem from="1669556395834" duration="758000" />
+      <workItem from="1669558050097" duration="83000" />
+      <workItem from="1669610658367" duration="10845000" />
+      <workItem from="1669636202474" duration="6178000" />
+      <workItem from="1670150675115" duration="5091000" />
+      <workItem from="1672227916135" duration="4574000" />
+      <workItem from="1672307557929" duration="5985000" />
+      <workItem from="1672326490543" duration="8166000" />
+      <workItem from="1672478683849" duration="3094000" />
+      <workItem from="1673795427890" duration="4659000" />
+      <workItem from="1674051801461" duration="295000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -358,10 +590,47 @@
           </properties>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/spring_aop/src/test/java/com/hb/spring/test/AOPByAnnotationTest.java</url>
+          <line>10</line>
+          <properties class="com.hb.spring.test.AOPByAnnotationTest" method="testAOPByAnnotation">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/spring_transaction/src/test/java/com/hb/spring/test/JdbcTemplateTest.java</url>
+          <line>22</line>
+          <properties class="com.hb.spring.test.JdbcTemplateTest" method="testInsert">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/spring_transaction/src/test/java/com/hb/spring/test/JdbcTemplateTest.java</url>
+          <line>29</line>
+          <properties class="com.hb.spring.test.JdbcTemplateTest" method="testGetUserById">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/spring_transaction/src/test/java/com/hb/spring/test/JdbcTemplateTest.java</url>
+          <line>43</line>
+          <properties class="com.hb.spring.test.JdbcTemplateTest" method="testGetCount">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mybatis_resultMap/src/test/java/ResultMapperTest.java</url>
           <line>48</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-aop/src/test/java/com/mg/spring/test/AOPByAnnotationTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

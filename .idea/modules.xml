@@ -9,9 +9,14 @@
       <module fileurl="file://$PROJECT_DIR$/mybatis_mbg/mybatis_mbg.iml" filepath="$PROJECT_DIR$/mybatis_mbg/mybatis_mbg.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis_parameter/mybatis_parameter.iml" filepath="$PROJECT_DIR$/mybatis_parameter/mybatis_parameter.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis_resultMap/mybatis_resultMap.iml" filepath="$PROJECT_DIR$/mybatis_resultMap/mybatis_resultMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_aop/spring_aop.iml" filepath="$PROJECT_DIR$/spring_aop/spring_aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_helloworld/spring_helloworld.iml" filepath="$PROJECT_DIR$/spring_helloworld/spring_helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_ioc_annotation/spring_ioc_annotation.iml" filepath="$PROJECT_DIR$/spring_ioc_annotation/spring_ioc_annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_ioc_xml/spring_ioc_xml.iml" filepath="$PROJECT_DIR$/spring_ioc_xml/spring_ioc_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_mvc_demo/spring_mvc_demo.iml" filepath="$PROJECT_DIR$/spring_mvc_demo/spring_mvc_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_mvc_helloworld/spring_mvc_helloworld.iml" filepath="$PROJECT_DIR$/spring_mvc_helloworld/spring_mvc_helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_transaction/spring_transaction.iml" filepath="$PROJECT_DIR$/spring_transaction/spring_transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springaop/springaop.iml" filepath="$PROJECT_DIR$/springaop/springaop.iml" />
       <module fileurl="file://$PROJECT_DIR$/springproxy/springproxy.iml" filepath="$PROJECT_DIR$/springproxy/springproxy.iml" />
     </modules>
   </component>

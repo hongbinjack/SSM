@@ -27,7 +27,6 @@
 
     <typeAliases>
         <package name="com.mg.mybatis.pojo"/>
-
     </typeAliases>
 
     <environments default="development">
@@ -57,8 +56,6 @@
 
     <!-- 引入mybatis的映射文件-->
     <mappers>
-
-
         <package name="com.mg.mybatis.mapper"/>
     </mappers>
 </configuration>

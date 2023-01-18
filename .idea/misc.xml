@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring_mvc_demo" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_mvc_helloworld" />
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
@@ -17,6 +21,12 @@
         <option value="$PROJECT_DIR$/spring_ioc_xml/pom.xml" />
         <option value="$PROJECT_DIR$/spring_ioc_annotation/pom.xml" />
         <option value="$PROJECT_DIR$/springproxy/pom.xml" />
+        <option value="$PROJECT_DIR$/springaop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_aoop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_demo/pom.xml" />
       </list>
     </option>
   </component>

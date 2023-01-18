@@ -16,10 +16,10 @@ public class ProxyTest {
 
     @Test
     public void testProxy(){
-        CalculatorStaticProxy proxy = new CalculatorStaticProxy(new CalculatorImpl());
-        proxy.add(1, 2);
-//        ProxyFactory proxyFactory = new ProxyFactory(new CalculatorImpl());
-//        Calculator proxy = (Calculator) proxyFactory.getProxy();
-//        proxy.div(1,0);
+//        CalculatorStaticProxy proxy = new CalculatorStaticProxy(new CalculatorImpl());
+//        proxy.add(1, 2);
+        ProxyFactory proxyFactory = new ProxyFactory(new CalculatorImpl());
+        Calculator proxy = (Calculator) proxyFactory.getProxy();
+        proxy.div(1,0);//数学异常，最后打印异常
     }
 }
