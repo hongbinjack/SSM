@@ -6,40 +6,54 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring_helloworld" />
-        <module name="mybatis_resultMap" />
-        <module name="springproxy" />
-        <module name="spring_mvc_demo" />
-        <module name="springaop" />
-        <module name="mybatis_helloworld" />
-        <module name="spring_mvc_helloworld" />
-        <module name="spring_transaction" />
-        <module name="mybatis_parameter" />
-        <module name="mybatis_mbg" />
-        <module name="mybatis_dynamicSQL" />
-        <module name="mybatis_cache" />
-        <module name="spring_aop" />
         <module name="spring_ioc_xml" />
+        <module name="mybatis_parameter" />
+        <module name="spring_mvc_demo" />
+        <module name="SSM_Integrate" />
+        <module name="spring_transaction" />
+        <module name="spring_mvc_annotation" />
+        <module name="spring_helloworld" />
+        <module name="springaop" />
+        <module name="spring_aop" />
+        <module name="spring_mvc_extension" />
+        <module name="mybatis_resultMap" />
+        <module name="mybatis_helloworld" />
+        <module name="spring_mvc_ajax" />
+        <module name="springMVC_quickstart" />
+        <module name="mybatis_cache" />
+        <module name="springproxy" />
+        <module name="spring_mvc_rest" />
+        <module name="ssm" />
+        <module name="spring_mvc_helloworld" />
+        <module name="mybatis_dynamicSQL" />
+        <module name="mybatis_mbg" />
         <module name="spring_ioc_annotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mybatis_cache" target="1.8" />
       <module name="mybatis_dynamicSQL" target="1.8" />
-      <module name="mybatis_helloworld" target="1.8" />
+      <module name="mybatis_helloworld" target="8" />
       <module name="mybatis_mbg" target="1.8" />
       <module name="mybatis_parameter" target="1.8" />
       <module name="mybatis_resultMap" target="1.8" />
       <module name="spring_aoop" target="1.8" />
-      <module name="spring_aop" target="1.6" />
+      <module name="spring_aop" target="6" />
       <module name="spring_helloworld" target="1.8" />
       <module name="spring_ioc_annotation" target="1.8" />
       <module name="spring_ioc_xml" target="1.8" />
+      <module name="spring_mvc_ajax" target="1.8" />
+      <module name="spring_mvc_annotation" target="1.8" />
       <module name="spring_mvc_demo" target="1.8" />
+      <module name="spring_mvc_extension" target="1.8" />
       <module name="spring_mvc_helloworld" target="1.8" />
+      <module name="spring_mvc_rest" target="1.8" />
       <module name="spring_transaction" target="1.8" />
       <module name="springaop" target="1.8" />
+      <module name="springMVC_quickstart" target="1.8" />
       <module name="springproxy" target="1.8" />
+      <module name="ssm" target="7" />
+      <module name="SSM_Integrate" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

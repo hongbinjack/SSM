@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SSM_Integrate:war">
+    <output-path>$PROJECT_DIR$/SSM_Integrate/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SSM_Integrate</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SSM_Integrate-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SSM_Integrate:war exploded" />
+    </root>
+  </artifact>
+</component>

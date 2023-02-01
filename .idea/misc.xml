@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring_mvc_ajax" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_mvc_annotation" />
     <file type="web" url="file://$PROJECT_DIR$/spring_mvc_demo" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_mvc_extension" />
     <file type="web" url="file://$PROJECT_DIR$/spring_mvc_helloworld" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_mvc_rest" />
+    <file type="web" url="file://$PROJECT_DIR$/springMVC_quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/SSM_Integrate" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -27,6 +34,13 @@
         <option value="$PROJECT_DIR$/spring_transaction/pom.xml" />
         <option value="$PROJECT_DIR$/spring_mvc_helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/spring_mvc_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springMVC_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_ajax/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_extension/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM_Integrate/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm/pom.xml" />
       </list>
     </option>
   </component>
